@@ -284,9 +284,9 @@ input, select, textarea {
 		}
 
 .center {
-margin-left: auto;
-margin-right: auto;
-display: block
+	margin-left: auto;
+	margin-right: auto;
+	display: block
 }
 
 	.align-left {
